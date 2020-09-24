@@ -8,4 +8,5 @@
 - To run the program, type: cmake -DCMAKE_BUILD_TYPE="Release"
 - Then type: make
 - The program will be built in /bin. To run the program, type: ./bin/RunMaze
+- Enter #rows and #columns then hit Enter
 - Use left click to let the program run next steps
